@@ -18,7 +18,7 @@ El alumno tendrá que hacer la parte front-end con angular y la parte back-end c
 
 
 ## Criterios de evaluación
-Funcionalidad de Front-End 40 %
-Funcionalidad de Back-End 40%
-Código comentado 10%
-Documentación del proyecto 10%
+ - Funcionalidad de Front-End 40 %
+ - Funcionalidad de Back-End 40%
+ - Código comentado 10%
+ - Documentación del proyecto 10%
