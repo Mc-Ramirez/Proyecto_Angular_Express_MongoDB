@@ -1,4 +1,8 @@
 # Conexión bidireccional transferencia de datos entre servidores
+# Alberto Rosello
+# Sergio Primo de Rivera
+# Felipe Ramírez
+
 
 ## Características de proyecto
 El alumno tendrá que crear una aplicación con las operaciones básicas de SQL:
