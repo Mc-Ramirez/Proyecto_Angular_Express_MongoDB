@@ -1,6 +1,6 @@
 # Conexión bidireccional transferencia de datos entre servidores
 # Alberto Rosello
-# Sergio Primo de Rivera
+# Sergio Rivera
 # Felipe Ramírez
 
 
